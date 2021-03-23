@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@500&family=Reenie+Beanie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@700&family=League+Script&family=Mali:wght@500&family=Reenie+Beanie&display=swap');
+
+
+
+img{
+    width: 290px;
+    height: 187px;
+}
+
+div{
+
+display: none;
+width: 320px;
+margin: 15px;
+text-align: center;
+background-color:#848ccf;
+}
+
+p{
+
+margin-top: 5px;
+font-family: 'Reenie Beanie', cursive;
+font-size: 40px;
+color: #be5683;
+
+}
+
+h2{
+
+text-align: center;
+margin-top: 5px;
+margin-bottom: 10px;
+font-family: 'Mali', cursive;
+font-size: 30px;
+color: #ffe4e4;
+
+
+}
+
+header{
+
+background-color: #848ccf8e;
+height: 200px;
+padding: 60px;
+text-align: center;
+font-size: 30px;
+
+
+
+}
+html{
+
+
+background-color: #ffe4e4;
+
+
+}
+
+h1{
+
+    font-family: 'Mali', cursive;
+    font-size: 80px;
+
+}
+
+select{
+
+margin-top: 5%;
+
+}
+
+
+
+footer{
+
+    background-color: #848ccf8e;
+    height: 30px;
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 100px;
+    font-family: 'League Script', cursive;
+    
+    
+    }
+
+
+
