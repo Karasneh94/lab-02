@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@700&family=Mali:wght@500&family=Reenie+Beanie&display=swap');
+
+select {
+    
+    width: 100%;
+    min-width: 15ch;
+    max-width: 30ch;
+    border: 1px solid var(--select-border);
+    border-radius: 0.25em;
+    padding: 0.25em 0.5em;
+    font-size: 1.25rem;
+    cursor: pointer;
+    line-height: 1.1;
+    background-color: #be5683;
+    box-shadow: 0 5px 25px rgba(255, 0, 0, 0.2);
+    -webkit-appearance: button;
+    color: #ffe4e4;
+    appearance: button;
+    font-family: 'Delius Unicase', cursive;
+    text-align-last:center;
+    
+  }
+
+
+
+ 
